@@ -1,17 +1,8 @@
 ---
 layout: default
 title: UI Components
-nav_order: 2
+nav_order: 3
 ---
 
-+-- ..
-|
-|-- UI Components
-|   |-- ..
-|   |
-|   |-- Buttons
-|   |   |-- Button Child Page
-|   |
-|   |-- ..
-|
-+-- ..
+
+first
